@@ -1,6 +1,9 @@
-# Felipe README.md
+Felipe/README.md
+Hi there wave
 
-Hi
+I am a student of Computational Thinking in the João de Faria Pioli School.
 
 
-i am student computational Thinking in the João de Faria Pioli
+I'm getting crazy....exploding_head
+
+Popular repositories
