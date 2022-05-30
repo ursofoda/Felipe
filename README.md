@@ -1,6 +1,3 @@
-ursofoda/README.md
-
-
 Hi there wave
 
 
