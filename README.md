@@ -1,10 +1,10 @@
-Hi there wave
+<b>Hi there wave<b>
 
 
-I am a student of Computational Thinking in the João de Faria Pioli School.
+<b>I am a student of Computational Thinking in the João de Faria Pioli School.<b>
 
 
-I'm getting crazy....
+<b>I'm getting crazy....<b>
 
 
-Popular repositories
+<b>Popular repositories<b>
