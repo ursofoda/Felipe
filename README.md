@@ -8,5 +8,11 @@
 
 
 <b>Popular repositories<b>
-background-color
-  color-rgb
+#teste{
+  width: 400px;
+  height: 200px;
+  border: 1px solid;
+  background-image: url(logolc.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
