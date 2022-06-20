@@ -1,4 +1,4 @@
-<b>Hi there wave<b>
+</p><b>Hi there wave<b>&#x1F435;</p>
 
 
 <b>I am a student of Computational Thinking in the João de Faria Pioli School.<b>
